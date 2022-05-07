@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @17kriti
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c++,python and web developement
 - 📫 How to reach me kritijoshi330@gmail.com
 
 <!---
