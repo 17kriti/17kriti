@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @17kriti
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++,python and web developement
+-  Ask me about HTML,CSS,Basic java,
+- 🌱 I’m currently learning c++ and web developement
 - 📫 How to reach me kritijoshi330@gmail.com
 
 <!---
