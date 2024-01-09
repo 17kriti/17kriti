@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @17kriti
--  Ask me about HTML,CSS,Basic java,
+-  Ask me about HTML,CSS,OOPs concepts
 - 🌱 I’m currently learning c++ and web developement
 - 📫 How to reach me kritijoshi330@gmail.com
 
